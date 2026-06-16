@@ -1,0 +1,8 @@
+{
+  "name": "Aviator Crash Game",
+  "description": "A high-fidelity production-grade mock/real-time Aviator style Crash Game platform featuring real-time flight curves, double-bet layouts, live multiplayer simulations, wallet transaction history, referral tools, ticket support, and comprehensive interactive system architectures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
